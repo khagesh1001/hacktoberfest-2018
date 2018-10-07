@@ -538,6 +538,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am a senior studying Web Development and Computer Science.
 - I currently have an internship as a software engineer at SciTools.
 - [![github-alt][github-img]](https://github.com/d00297334)
+### Khagesh Singh
+- Student
+- I design logos
+- [![github-alt][github-img]](https://github.com/khagesh1001)
+
 
 ### Kundan Kumar
 - I am a high school graduate.
